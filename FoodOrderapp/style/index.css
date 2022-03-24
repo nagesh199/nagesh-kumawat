@@ -1,0 +1,22 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    height: 60px;
+}
+
+#right {
+    display: flex;
+    gap: 20px;
+    padding-right: 50px;
+}
+#menu {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+    height: 300px;
+}
+img {
+    width: 100%;
+}

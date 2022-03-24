@@ -1,0 +1,24 @@
+img {
+    width: 300px;
+    height: 250px;
+}
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    height: 60px;
+}
+
+#right {
+    display: flex;
+    gap: 20px;
+    padding-right: 50px;
+}
+#cart {
+    margin-top: 20px;
+}
+#cartpage {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
